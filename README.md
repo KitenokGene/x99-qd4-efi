@@ -9,6 +9,7 @@ This build works on Sonoma
 
 ## What works
 - System
+- GUI in OpenCore boot menu
 - Graphics acceleration
 - 144hz refresh rate over HDMI
 - Ethernet
